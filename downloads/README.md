@@ -1,3 +1,2 @@
-# Downloaded list :
-
-- [&ved=2ahUKEwjH29GZw7iUAxXX3QIHHdapJvI4KBCjtAF6BAgFEAU&usg=AOvVaw1jIz22Otbi-_P0UKpWIVB_](./%26ved%3D2ahUKEwjH29GZw7iUAxXX3QIHHdapJvI4KBCjtAF6BAgFEAU%26usg%3DAOvVaw1jIz22Otbi-_P0UKpWIVB_)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
